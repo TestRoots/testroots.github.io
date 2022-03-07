@@ -8,7 +8,7 @@ comments: true
 As a courtesy to our users, TravisTorrent provides both offline and online
 access options. No registration or subscription is required. Users are kindly asked to follow a fair-use policy of server resources.
 
-<div class="get-started-wrap"><a class="btn btn-success btn-lg get-started-btn" href="https://bigquery.cloud.google.com/table/travistorrent-bq:data.2017_02_08?tab=schema">Live Online Access</a> <a class="btn btn-success btn-lg get-started-btn" href="/dumps/travistorrent_8_2_2017.sql.gz">Download CSV dump</a></div>
+<div class="get-started-wrap"><a class="btn btn-success btn-lg get-started-btn" href="https://bigquery.cloud.google.com/table/travistorrent-bq:data.2017_02_08?tab=schema">Live Online Access</a> <a class="btn btn-success btn-lg get-started-btn" href="/dumps/travistorrent_8_2_2017.sql.gz">Download CSV dump</a> (live access is currently no longer possible, see **offline access** below to continue).</div>
 <br>
 
 ### Live Online Access
